@@ -13,6 +13,7 @@ view\thembaohiem.class
 model\Policy.class
 view\menu$2.class
 view\thembaohiem$5.class
+view\Muagoibaohiem$3.class
 view\Quanlybaohiem$11.class
 view\themdichvu$3.class
 com\mycompany\quanlybaohiem1\Quanlybaohiem1.class
@@ -43,8 +44,10 @@ DAO\Dbconnection.class
 view\Quanlybaohiem$18.class
 view\Quanlybaohiem$15.class
 view\Quanlybaohiem$2.class
+view\Muagoibaohiem$4.class
 view\thongtinkhachhang$7.class
 view\thanhtoan$4.class
+view\Muagoibaohiem$5.class
 view\themdichvu$5.class
 view\Quanlybaohiem$12.class
 view\thanhtoan.class
@@ -65,6 +68,7 @@ view\thanhtoan$3.class
 view\thembaohiem$7.class
 view\Quanlybaohiem$13.class
 view\themdichvu$1.class
+view\themkhachhang$7.class
 view\thembaohiem$4.class
 view\Dangki$4.class
 view\thongtinkhachhang$1.class
@@ -74,7 +78,6 @@ view\Dangki$1.class
 view\thongtinkhachhang$4.class
 view\menu$4.class
 view\themkhachhang$1.class
-view\thanhtoan$6.class
 com\mycompany\quanlybaohiem1\Quanlybaohiem1$2.class
 view\themkhachhang.class
 view\themdichvu$4.class
